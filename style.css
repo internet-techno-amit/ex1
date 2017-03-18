@@ -1,0 +1,44 @@
+html{
+direction:rtl;
+align:center;
+}
+
+body{
+	background-image: url('./images/background.jpg');
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+table{
+color:#88E188;
+font:ariel;
+}
+th{
+	font-style: italic;
+}
+h1{
+	color:lightgreen;
+}
+img{
+border: 2px linen black;
+}
+.info{
+	border: 1px solid darkred;
+}
+.header{
+	margin:0 auto;
+	color:red;
+	font-size:2em;
+	font-weight:bold;
+}
+a:link {
+    color: blue;
+}
+a:visited {
+    color: yellow;
+}
+a:hover {
+    color: hotpink;
+}
+a:active {
+    color: blue;
+}
